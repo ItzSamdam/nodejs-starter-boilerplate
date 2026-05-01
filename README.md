@@ -92,14 +92,14 @@ A structured logging setup is included to capture application events and errors.
 ## Running
 
 ```bash
-npm run build
-npm start
+pnpm run build
+pnpm start
 ```
 
 For development:
 
 ```bash
-npm run dev
+pnpm run dev
 ```
 
 ## Contributing
